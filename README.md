@@ -5,9 +5,13 @@
 **Case and Problems**
 
 • How can topic modeling be used to identify key themes in positive and negative hotel reviews?
+
 • What preprocessing techniques (e.g., tokenization, stop-word removal) should be applied to ensure accurate sentiment analysis?
+
 • What are the top three factors influencing customer satisfaction and dissatisfaction based on review data?
+
 • How can sentiment analysis help hotel businesses improve customer experience and service quality?
+
 
 **Analysis**
 
