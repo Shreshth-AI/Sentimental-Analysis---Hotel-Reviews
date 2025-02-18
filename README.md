@@ -1,6 +1,6 @@
 **Project Description:**
 
-**Hotel Reviews - Sentient Analysis**
+**Hotel Reviews - Sentiment Analysis**
 
 **Case and Problems**
 
